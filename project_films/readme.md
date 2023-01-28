@@ -1,6 +1,6 @@
 ## Исследование рынка российского кинопроката
 
-[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.ipynb)        [html]
+[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.ipynb)            [html](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.html)
 
 ### Описание проекта
 
