@@ -1,6 +1,5 @@
 ## Исследование объявлений о продаже квартир
-
-[pdf](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.pdf)           [ipynb](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.ipynb)
+[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.ipynb)    [html](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.html)   [pdf](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.pdf)
 
 ### Описание проекта
 Анализ архива объявлений недвижимости в С-Петербурге за несколько лет для определения рыночной стоимости объектов недвижимости
