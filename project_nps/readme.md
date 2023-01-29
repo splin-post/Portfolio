@@ -1,6 +1,6 @@
 ## Исследование текущего уровня лояльности клиентов телекоммуникационной компании в России
 
-
+[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_nps/project_nps_pub.ipynb)    [html](https://github.com/splin-post/Portfolio/blob/main/project_nps/project_nps_pub.html)
 
 
 ### Описание проекта
