@@ -8,6 +8,11 @@
 
 
 ### Навыки и инструменты
+- python
+- SQL
+- pandas
+- Tableau
+- powerpoint
 
 
 ### Общие выводы
