@@ -10,7 +10,7 @@
 - python
 - pandas
 - sqlalchemy
--plotly
+- plotly
 - Tableau
 
 ### Общие выводы
