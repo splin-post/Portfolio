@@ -2,6 +2,9 @@
 
 [ipynb](https://github.com/splin-post/Portfolio/blob/main/project_zen/проект_автоматизация.ipynb)       [html](https://github.com/splin-post/Portfolio/blob/main/project_zen/проект_автоматизация.html)
 
+### Статус проекта
+<b>ЗАВЕРШЕН</b>
+
 ### Описание проекта
 Автоматизация выгрузки данных из БД, создание дашборда для анализа информации по согласованным KPI
 
