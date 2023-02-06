@@ -2,6 +2,9 @@
 
 [ipynb](https://github.com/splin-post/Portfolio/blob/main/project_food/project_food_pub.ipynb)    [html](https://github.com/splin-post/Portfolio/blob/main/project_food/project_food_pub.html)     [pdf](https://github.com/splin-post/Portfolio/blob/main/project_food/project_food_pub_pdf.pdf)
 
+### Статус проекта
+<b>ЗАВЕРШЕН</b>
+
 ### Описание проекта
 Анализ рынока заведений общественного питания Москвы и выявление текущих трендов и закономерностей в расположении, категорях общественного питания - ресторан, кафе, столловая и т.д, , ценообразовании, потенциальном трафике посетителей, кол-ве посадочных мест.
 
