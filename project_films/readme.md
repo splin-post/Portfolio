@@ -2,6 +2,9 @@
 
 [ipynb](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.ipynb)            [html](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.html)    [pdf](https://github.com/splin-post/Portfolio/blob/main/project_films/project_films_pub.pdf)
 
+### Статус проекта
+<b>ЗАВЕРШЕН</b>
+
 ### Описание проекта
 
 Изучение рынка российского кинопроката с уделением особоговнимания филтмам с гос.поддержкой и выявлением существуюзих в прокате тенденций.
