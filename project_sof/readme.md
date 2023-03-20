@@ -1,6 +1,6 @@
 ## 	Исследование взаимодействий пользователей с карточками Дзен
 
-[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_sof/project stackoverflow SQL.ipynb)
+[ipynb](https://github.com/splin-post/Portfolio/blob/main/project_sof/project%20stackoverflow%20SQL.ipynb)
 
 ### Статус проекта
 <b>ЗАВЕРШЕН</b>
